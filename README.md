@@ -1,5 +1,19 @@
 # Customer-Churn-Analysis
 A Power BI project analyzing customer churn to enhance retention strategies for a telecommunications company.
+## Contents
+In this repository, you will find the following:
+
+- **Excel Dataset:** Contains the raw data for reference.
+- **Dashboard Images:**
+  - Page 1: Main Analysis
+  - Page 2: Churn Analysis
+- **Power BI File:** Provides a live and interactive dashboard experience.
+- **Video Demonstration:** Offers a live interaction with the dashboard.
+- **Objective & Analysis PDF:** Details the objectives and findings of the analysis.
+
+## LinkedIn Post
+For a video demonstration of the dashboard, please refer to the following LinkedIn post:
+[LinkedIn Video Post](Paste the link here)
 
 # Table of Contents
 1. [Project Overview](#project-overview)
