@@ -7,7 +7,7 @@ In this repository, you will find the following:
 - **Dashboard Images:**
   - Page 1: [Main Analysis](https://github.com/Karan-work-24/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis/Dashboard%201.png)
   - Page 2: [Churn Analysis](https://github.com/Karan-work-24/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis/Dashboard%202%20.png)
-- **Power BI File:** Provides a live and interactive dashboard experience.
+- **Power BI File:** Please connect over karan.gupta.wk24@gmail.com for File and live interaction of dashboard.
 - **[Video Demonstration](https://github.com/Karan-work-24/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis/Video%20of%20the%20live%20interaction%20of%20dashboard.mp4):** Offers a live interaction with the dashboard.
 - **[Objective & Analysis PDF](https://github.com/Karan-work-24/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis/Elevating-Customer-Retention-in-Telecommunications.pdf):** Details the objectives and findings of the analysis.
 
