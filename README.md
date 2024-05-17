@@ -1,13 +1,13 @@
 # Customer-Churn-Analysis
 A Power BI project analyzing customer churn to enhance retention strategies for a telecommunications company.
-# Table of Contents
-1. Project Overview
-2. Data Source
-3. Tools Used
-4. Data Preparation
-5. Insights
-6. Recommendations
 
+# Table of Contents
+1. [Project Overview](#project-overview)
+2. [Data Source](#data-source)
+3. [Tools Used](#tools-used)
+4. [Data Preparation](#data-preparation)
+5. [Insights](#insights)
+6. [Recommendations](#recommendations)
 # Project Overview
 The Telecommunications Retention Manager is actively seeking a comprehensive solution to elevate customer retention efforts and mitigate customer churn. This project interprets and gains insight into customer retention, analyzing how many customers joined and how they are distributed across various parameters.
 
