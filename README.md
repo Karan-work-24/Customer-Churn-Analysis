@@ -25,58 +25,46 @@ Here's a quick rundown of the steps taken in the project:
 4. **Data Visualization (Dashboard)**: Created visually compelling dashboards to make complex data easily understandable.
 5. **Insights**: Unearthed some fascinating findings!
 
-# Insights
+# Insights Summary
 
-1. **Overview**:
-   - Total customers: 7032
-   - Customers at risk (churned): 1869
-   - Average monthly charges: $38K
-   - Admin tickets raised: 3621
-   - Tech tickets raised: 2955
-   - Average churn rate: 26.58%
+**Overview:**
+- Total customers: 7032
+- Customers at risk (churned): 1869
+- Average monthly charges: $38K
+- Admin tickets raised: 3621
+- Tech tickets raised: 2955
+- Average churn rate: 26.58%
 
-2. **Customer Service Usage**:
-   - Phone service: 90.33%
-   - Streaming TV: 38.44%
-   - Online security: 28.65%
-   - Device protection: 34.39%
-   - Tech support: 29.01%
-   - Streaming movies: 38.84%
-   - Online backup: 34.49%
+**Customer Service Usage:**
+- High usage of phone service (90.33%) and streaming services (TV: 38.44%, movies: 38.84%).
+- Notable usage of online security (28.65%), device protection (34.39%), tech support (29.01%), and online backup (34.49%).
 
-3. **Customer Demographics**:
-   - Gender distribution: Male 50.47%, Female 49.53%
-   - Senior citizens: 16.24%
-   - Customers with dependents: 29.85%
-   - Customers with partners: 48.25%
+**Customer Demographics:**
+- Gender distribution is almost even (Male: 50.47%, Female: 49.53%).
+- Senior citizens make up 16.24% of customers.
+- 29.85% of customers have dependents, and 48.25% have partners.
 
-4. **Churn Rate by Tenure**:
-   - Churn within less than 1 year: 55.48%
-   - Churn within 1-2 years: 15.73%
-   - Churn within 2-3 years: 9.63%
-   - Churn within 3-4 years: 7.76%
-   - Churn within 4-5 years: 6.42%
-   - Churn within more than 5 years: 4.98%
+**Churn Rate by Tenure:**
+- Highest churn rate within the first year (55.48%).
+- Decreases significantly with tenure (1-2 years: 15.73%, 2-3 years: 9.63%, 3-4 years: 7.76%, 4-5 years: 6.42%, more than 5 years: 4.98%).
 
-5. **Internet Service and Churn Rate**:
-   - Fiber optic: 44.03% churn rate
-   - DSL: 34.36% churn rate
-   - No internet service: 21.62% churn rate
+**Internet Service and Churn Rate:**
+- Fiber optic customers have the highest churn rate (44.03%).
+- DSL churn rate: 34.36%
+- No internet service churn rate: 21.62%
 
-6. **Contract Types and Churn Rate**:
-   - Month-to-month: 55.11% churn rate
-   - One-year: 20.39% churn rate
-   - Two-year: 23.96% churn rate
+**Contract Types and Churn Rate:**
+- Month-to-month contracts have the highest churn rate (55.11%).
+- One-year contracts: 20.39%
+- Two-year contracts: 23.96%
 
-7. **Payment Methods and Churn Rate**:
-   - Electronic check: 33.63%
-   - Mailed check: 22.81%
-   - Bank transfer (automatic): 21.93%
-   - Credit card (automatic): 21.63%
+**Payment Methods and Churn Rate:**
+- Highest churn rate with electronic check payments (33.63%).
+- Lower churn rates with mailed check (22.81%), bank transfer (21.93%), and credit card (21.63%).
 
-8. **Paperless Billing**:
-   - Customers using paperless billing: 59.27%
-   - Customers not using paperless billing: 40.73%
+**Paperless Billing:**
+- Majority of customers use paperless billing (59.27%).
+- Customers not using paperless billing: 40.73%
 
 # Recommendations
 Based on the analysis, here are some actionable recommendations:
