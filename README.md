@@ -13,7 +13,7 @@ In this repository, you will find the following:
 
 ## LinkedIn Post
 For a video demonstration of the dashboard, please refer to the following LinkedIn post:
-[LinkedIn Video Post](Paste the link here)
+[LinkedIn Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7197603814651174912/)
 
 # Table of Contents
 1. [Project Overview](#project-overview)
